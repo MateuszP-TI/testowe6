@@ -1,0 +1,28 @@
+* { 
+  margin: 0; 
+  padding: 0; 
+  text-align: center; 
+} 
+
+header { 
+  background-color: aqua; 
+  border: 5px solid black; 
+}
+
+#rodzic { 
+  display: flex; 
+} 
+
+
+#dzieckolewe{ 
+  width: 70%; 
+  background-color: blue; 
+  border: 10px solid black; 
+} 
+
+aside { 
+  width: 30%; 
+  background-color: green; 
+  height: 500px; 
+  border: 10px solid black; 
+}
